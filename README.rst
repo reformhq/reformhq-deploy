@@ -1,7 +1,7 @@
 ReformHQ deployment framework
 =============================
 
-Contains tools and data
+Tools and data
 relevant to any type of ReformHQ deployment.
 
 See `demo-deploy <https://github.com/reformhq/demo-deploy/>`__
